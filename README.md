@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate in projects related to future technologies.
 
-- 📫 How to reach me - coming soon..
+- 📫 How to reach me - coming soon...
 
 <!---
 prahlad-swarnkar/prahlad-swarnkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
