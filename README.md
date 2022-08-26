@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prahlad-swarnkar
 
-- 👀 I’m interested in cretive work in diff. CS fields. I am a true beliver of open source. In my opinion flexibility is the key to sustainability.
+- 👀 I’m interested in cretive work in diff. CS fields. I am a true beliver of open source. In my opinion flexibility is the key to sustainability. I am good at Vector Graphics.
 
 - 🌱 I’m currently learning b.tech. CSE.
 
